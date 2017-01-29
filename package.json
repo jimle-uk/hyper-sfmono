@@ -1,0 +1,14 @@
+{
+  "name": "hyper-sfmono",
+  "version": "1.0.0",
+  "description": "SanFrancisco Mono in Hyper ⚡️",
+  "main": "index.js",
+  "repository": "https://github.com/jimle-uk/hyper-sfmono.git",
+  "bugs": "https://github.com/jimle-uk/hyper-sfmono/issues",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["San francisco", "hyper", "font", "plugin"],
+  "author": "Jim Le <jim@height.io>",
+  "license": "MIT"
+}
