@@ -1,12 +1,13 @@
 Hyper-SFmono
 ===
 
+__Note__: There are no fonts in this repository.  
 __Requirements__: macOS Sierra (Tested on 10.12.3)  
   
-Use the Sans Franciso Mono typeface ("SFMono") in (Hyper)[https://hyper.is] without actually installing the typefaces.  
-It works by uses the css @fontface feature to load fonts directly from terminal.app.  
+Use the Sans Franciso Mono typeface ("SFMono") in [Hyper](https://hyper.is) without actually installing the typefaces. 
+It works by using the css @fontface feature to load fonts directly from terminal.app.  
   
-__Disclaimer__: You *can* save yourself the trouble and just actually install the fonts directly. They work fine.  
+__Disclaimer: Alternatively, You *can* save yourself the trouble and just actually install the fonts directly. They work fine.__
   
   
 | Name			| Weight	|
